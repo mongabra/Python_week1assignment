@@ -1,7 +1,7 @@
-##Simple calculator
+Simple calculator
 This calculator is made for simple computations;
 
-#Operations
+Operations;
 Addition
 Subtraction
 Multiplication
